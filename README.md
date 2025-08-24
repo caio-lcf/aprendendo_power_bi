@@ -3,7 +3,7 @@
 
 - **Familiarização com a Ferramenta:** O trabalho começou com a exploração do Power BI, visando compreender suas funcionalidades e o que a plataforma oferece para a análise de dados.
 
-- **Importação e Preparação dos Dados:** Foram importadas três bases de dados em diferentes formatos — Excel, CSV e XML. Durante esta fase, utilizou-se o Power Query para a transformação dos dados, corrigindo inconsistências como a ausência de cabeçalhos.
+- **Importação e Preparação dos Dados:** Foram importadas três bases de dados em diferentes formatos, sendo eles: Excel, CSV e XML. Durante esta fase, utilizei o Power Query para a transformação dos dados, corrigindo inconsistências como a ausência de cabeçalhos.
 
 - **Construção do Dashboard:** Um painel de controle interativo foi criado com o uso de cartões, gráficos e filtros (slicers) para apresentar as informações de forma clara e visual.
 
